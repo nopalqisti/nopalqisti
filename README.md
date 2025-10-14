@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![nopal qisti](img/Batman%20_%20header.jpg)
+
 <!--
 **nopalqisti/nopalqisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+-  I’m currently learning😅 ...
+
+![batman](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVyYndteTR6NWM3ZXp2eG50d2ZuNjJscnA1NXlhajFlb3M5aGNkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3T4oJvjGDuaX6exxMA/giphy.gif)
